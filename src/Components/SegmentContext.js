@@ -1,5 +1,3 @@
-// src/components/SegmentContext.js
-
 import React, { createContext, useState, useContext } from 'react';
 
 // Create a context with default values

@@ -1,5 +1,3 @@
-// src/components/ViewSegment.js
-
 import React from 'react';
 import { Drawer } from 'antd';
 import { IoIosArrowBack } from 'react-icons/io';
