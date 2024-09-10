@@ -47,5 +47,5 @@ This React application allows users to create and save segments with associated 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/segment-management-react-app.git
-   cd segment-management-react-app
+   git clone https://github.com/Samnoyal/ReactSegmentTask.git
+   cd ReactSegmentTask
